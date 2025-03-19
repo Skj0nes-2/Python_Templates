@@ -6,22 +6,22 @@
 
 # Language Definitions
 #    1. Persistent Memory; refers to a file at the main file's location containing data
-#    2. File; refers to a file at the location that the user is operating from containg data
+#    2. File; refers to a file at the location that the user is operating from containing data
 #    3. Temporary Memory; refers to data stored temporarily, in the main file, while the main file is running
 
 # Pros & Cons:
 
 #   Pros:
-#       1. Is easier to read / write as a developer
+#       1. Is easier to read/write as a developer
 
 #   Cons:
-#       1. Can be harder to reuse / repeat sections of the code
+#       1. Can be harder to reuse/repeat sections of the code
 
 # Uses:
 #    1. Simple Operations; Reasons: Simpler, easy functions
 
 # What is this example?:
-#    This example asks your name, adds it to an array, prints the array, then save the array to persistant memory
+#    This example asks your name, adds it to an array, prints the array, and then saves the array to persistent memory
 
 
 # All below is the example
