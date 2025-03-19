@@ -2,15 +2,15 @@
 
 # Notes:
 #    All sections are optional!
-#    Run Loop is often used in more complicted projects such as games
+#    Run Loop is often used in more complicated projects such as games
 #    Code does not have to loop!
 #    Not all code has to be contained within a function!
 
 # Language Definitions:
 #    1. Persistent Memory; refers to a file at the main file's location containing data
-#    2. File; refers to a file at any location containg data
+#    2. File; refers to a file at any location containing data
 #    3. Temporary Memory; refers to data stored temporarily, in the main file, while the main file is running; Examples: Variable, Function, Etc
-#    4. Run Loop; When code is seperated into functions and then the functions are run
+#    4. Run Loop; When code is separated into functions and then the functions are run
 
 # Pros & Cons:
 
