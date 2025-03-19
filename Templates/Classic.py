@@ -1,3 +1,5 @@
+# Made By Skj0nes-2 | https://github.com/Skj0nes-2
+
 # Notes:
 #    All sections are optional!
 #    Classic is often used for simple operations such as a calculator
